@@ -8,7 +8,7 @@ module.exports = (grunt) ->
     coffee:
       compile:
         options:
-          sourceMap: true
+          sourceMap: false
         files:
           'build/main.js': 'javascripts/main.coffee'
 
