@@ -1,6 +1,6 @@
 # UserScripts
 
-[![MIT License](https://img.shields.io/badge/license-MIT-red.svg)](./LICENSE.txt)
+[![MIT License](https://img.shields.io/github/license/razor-x/userscripts.svg)](./LICENSE.txt)
 [![Dependency Status](https://img.shields.io/gemnasium/razor-x/userscripts.svg)](https://gemnasium.com/razor-x/userscripts)
 [![Build Status](https://img.shields.io/travis/razor-x/userscripts.svg)](https://travis-ci.org/razor-x/userscripts)
 [![OpenUserJS](https://img.shields.io/badge/OpenUserJS-razor--x-blue.svg)](https://openuserjs.org/users/razor-x)
@@ -11,8 +11,8 @@
 
 ### Source Code
 
-The [userscripts](https://github.com/razor-x/userscripts)
-source is hosted on GitHub.
+The [userscripts source](https://github.com/razor-x/userscripts)
+is hosted on GitHub.
 To clone the project run
 
 ```bash
